@@ -6,6 +6,15 @@
 
 Тут два представителя птичьих и по совместительству опенсорсеры рассказывают про разные-разности связанные с коммьюнити открытого исходного кода.
 
+<div>
+  <a href="https://github.com/omgovich">
+    <img src="https://badgen.net/badge/quack/quack/yellow" />
+  </a>
+  <a href="https://github.com/dmtrKovalenko">
+    <img src="https://badgen.net/badge/honk/honk/yellow" />
+  </a>
+</div>
+
 ## Ведущие
 
 - The Goose: [Дима Коваленко](https://twitter.com/dmtrKovalenko)
