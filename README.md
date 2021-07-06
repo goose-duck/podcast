@@ -13,6 +13,9 @@
   <a href="https://github.com/dmtrKovalenko">
     <img src="https://badgen.net/badge/honk/honk/yellow" />
   </a>
+  <a href="https://anchor.fm/goose-duck/episodes/GooseDuck---Babel-e11dnho">
+    <img src="https://badgen.net/badge/days-without-talking-about-ocaml/0/yellow" />
+  </a>
 </div>
 
 ## Ведущие
