@@ -37,6 +37,7 @@
 
 ## Выпуски
 
+- [#4 — Просыпайтесь! Пора делать open source!](episodes/004.md)
 - [#3 — UI-дизайн-framework-системы](episodes/003.md)
 - [#2 — Промежуточные сорсмапы](episodes/002.md)
 - [#1 — Ржавеющий JavaScript](episodes/001.md)
